@@ -2,12 +2,11 @@
 
 **code for git test**
 
-**PASS😶**
----
+## **PASS😶**
 
 Now I get it
 
-It's windy
+바람이다.
 
 If you just waitI can't
 
@@ -33,10 +32,8 @@ My walk
 
 The whole road is a wind road.
 
+## **important🧐**
 
-**important🧐**
----
-- you have to change `example.html` to  `content.html`
+- you have to change `example.html` to `content.html`
 
 - If you don't know where to put, then use `ctrl` + `f` => check
-
