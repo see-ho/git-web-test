@@ -24,7 +24,7 @@ No matter who goes out and falls
 
 It means to fight a game.
 
-in life
+삶에서
 
 There's nothing but wind
 
