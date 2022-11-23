@@ -3,8 +3,8 @@
 **code for git test**
 
 ## **PASS😶**
-
-Now I get it
+ 
+난 깨달았다
 
 바람이다.
 
